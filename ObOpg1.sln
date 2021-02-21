@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ObOpg1", "ObOpg1\ObOpg1.csproj", "{624E9F93-236A-4C92-ABFB-A0CC74DCDF60}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObOpg1Test", "ObOpg1Test\ObOpg1Test.csproj", "{5277F39D-FCFA-4127-BE3F-466F229FB1A9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{624E9F93-236A-4C92-ABFB-A0CC74DCDF60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{624E9F93-236A-4C92-ABFB-A0CC74DCDF60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{624E9F93-236A-4C92-ABFB-A0CC74DCDF60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{624E9F93-236A-4C92-ABFB-A0CC74DCDF60}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5277F39D-FCFA-4127-BE3F-466F229FB1A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5277F39D-FCFA-4127-BE3F-466F229FB1A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5277F39D-FCFA-4127-BE3F-466F229FB1A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5277F39D-FCFA-4127-BE3F-466F229FB1A9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BC4CC91B-7599-43CC-B694-59B9247D0924}
+	EndGlobalSection
+EndGlobal
