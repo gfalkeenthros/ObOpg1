@@ -8,6 +8,11 @@ namespace ObOpg1
         private double _price;
         private int _abv;
 
+        public Beer()
+        {
+
+        }
+
         public Beer(int id, string name, double price, int abv)
         {
             Id = id;
@@ -16,7 +21,7 @@ namespace ObOpg1
             ABV = abv;
         }
 
-        public int Id { get; private set; }
+        public int Id { get; set; }
         public string Name
         {
             get => _name;
